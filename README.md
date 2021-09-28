@@ -1,13 +1,15 @@
 # n2000hw.github.io
+
 Website: https://n2000hw.github.io/
 
-Directories:
-  _layouts
-  _posts
-  about
-  blog
-  css
-Pages:
+# Directories Used:
+ <br/> _layouts
+ <br/>_posts
+ <br/>about
+ <br/>blog
+ <br/>css
+  
+# Pages:
   Home
-  Blog
-  About
+  <br/>Blog
+  <br/>About
